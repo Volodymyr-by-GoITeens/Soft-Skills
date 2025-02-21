@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+p {
+    text-align: center;
+    width: 350px;
+    margin: 40px;
+}
+span {
+    background-color: yellow;
+}
+.thought {
+    font: bold;
+}
