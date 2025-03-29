@@ -1,0 +1,22 @@
+main h1, main h2, main h3{
+    text-align: center;
+}
+th, td {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 8px;
+    text-align: center;
+}
+.green {
+    background-color: #84cc9c;
+}
+.red {
+    background-color: #ff8585;
+}
+.step {
+    background-color: rgb(95, 95, 207);
+}
+.start-title {
+    font-weight: bold;
+    background-color: rgb(59, 59, 207);
+}

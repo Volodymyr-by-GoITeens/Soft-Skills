@@ -1,14 +1,20 @@
-body {
-    text-align: center;
-}
+
 p {
-    text-align: center;
     width: 350px;
     margin: 40px;
+}
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 span {
     background-color: yellow;
 }
 .thought {
     font: bold;
+    background-color: rgb(94, 255, 0);
+}
+button {
+    cursor: pointer;
 }
